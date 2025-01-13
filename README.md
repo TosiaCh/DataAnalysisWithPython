@@ -1,2 +1,1 @@
-# AnalizDanych
-This repository is what I'm currently learning. It contains of notebooks for data analysis training. At the begining I startet with basic data exploration , than worked on linear regression - predicting house prices based on different features (LinearRegression), predicting fish weight and species (LinearRegression2). Then I worked on reviews Clasification. COMMENTS AND OBSERVATIONS ARE INCLUDED IN MY NOTEBOOKS
+
