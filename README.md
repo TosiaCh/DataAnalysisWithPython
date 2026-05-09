@@ -14,3 +14,5 @@ Analysis of fish characteristics focused on relationships between fish length an
 ### Classification_AmazonReviews
 Sentiment analysis of Amazon reviews focused on transforming text into vector representations using CountVectorizer, classifying reviews as positive or negative with logistic regression, and comparing model performance using a limited dictionary of features.
 
+### Classification2_EnglishTwitterMessages
+Classification of English Twitter messages into six emotion categories focused on text pattern analysis, identification of the most representative words for each emotion, and handling imbalanced training data distributions.
